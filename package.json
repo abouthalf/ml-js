@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "serve": "^11.3.2"
+  },
+  "scripts": {
+    "dev": "serve ./src -C",
+    "serve": "serve"
+  }
+}
